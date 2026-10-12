@@ -77,7 +77,7 @@ The only line contains $2$ space-separated integers, $n$ and $k$.
 **Language:** C  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-12T08:37:38.729Z  
+**Submitted:** 2026-10-12T08:38:15.622Z  
 
 ```c
 #include <stdio.h>
